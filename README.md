@@ -8,6 +8,7 @@
 
 ## prerequirements
 java version = openjdk 21.0.5 2024-10-15
+
 flutter version = Flutter 3.27.1 • channel stable  / Tools • Dart 3.6.0 • DevTools 2.40.2
 
 
