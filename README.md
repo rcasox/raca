@@ -5,6 +5,13 @@
 [![Star on Github](https://img.shields.io/github/stars/flutter-ml/google_ml_kit_flutter.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/flutter-ml/google_ml_kit_flutter)
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
+
+## prerequirements
+java version = openjdk 21.0.5 2024-10-15
+
+flutter version = Flutter 3.27.1 • channel stable  / Tools • Dart 3.6.0 • DevTools 2.40.2
+
+
 A Flutter plugin to use [Google's ML Kit Pose Detection](https://developers.google.com/ml-kit/vision/pose-detection) to detect the pose of a subject's body in real time from a continuous video or static image.
 
 **PLEASE READ THIS** before continuing or posting a [new issue](https://github.com/flutter-ml/google_ml_kit_flutter/issues):
